@@ -1,0 +1,53 @@
+﻿  Main.cpp
+D:\2022\项目\C++-11\Management.h(69,7): warning C4594: 决不可实例化类“Professor” - 不可访问间接虚拟基类“Person”
+  (编译源文件“Main.cpp”)
+  D:\2022\项目\C++-11\Management.h(41,32):
+  “Person”是“Teacher”的 private 基类
+  
+D:\2022\项目\C++-11\Management.h(82,7): warning C4594: 决不可实例化类“FemaleProfessor” - 不可访问间接虚拟基类“Person”
+  (编译源文件“Main.cpp”)
+  D:\2022\项目\C++-11\Management.h(41,32):
+  “Person”是“Teacher”的 private 基类
+  D:\2022\项目\C++-11\Management.h(69,26):
+  “Teacher”是“Professor”的 private 基类
+  
+D:\2022\项目\C++-11\Management.h(94,7): warning C4594: 决不可实例化类“MaleProfessor” - 不可访问间接虚拟基类“Person”
+  (编译源文件“Main.cpp”)
+  D:\2022\项目\C++-11\Management.h(41,32):
+  “Person”是“Teacher”的 private 基类
+  D:\2022\项目\C++-11\Management.h(69,26):
+  “Teacher”是“Professor”的 private 基类
+  
+D:\2022\项目\C++-11\Management.h(147,7): warning C4594: 决不可实例化类“TeacherAssistant” - 不可访问间接虚拟基类“Student”
+  (编译源文件“Main.cpp”)
+  D:\2022\项目\C++-11\Management.h(125,34):
+  “Student”是“Graduate”的 private 基类
+  
+  Management.cpp
+D:\2022\项目\C++-11\Management.h(69,7): warning C4594: 决不可实例化类“Professor” - 不可访问间接虚拟基类“Person”
+  (编译源文件“Management.cpp”)
+  D:\2022\项目\C++-11\Management.h(41,32):
+  “Person”是“Teacher”的 private 基类
+  
+D:\2022\项目\C++-11\Management.h(82,7): warning C4594: 决不可实例化类“FemaleProfessor” - 不可访问间接虚拟基类“Person”
+  (编译源文件“Management.cpp”)
+  D:\2022\项目\C++-11\Management.h(41,32):
+  “Person”是“Teacher”的 private 基类
+  D:\2022\项目\C++-11\Management.h(69,26):
+  “Teacher”是“Professor”的 private 基类
+  
+D:\2022\项目\C++-11\Management.h(94,7): warning C4594: 决不可实例化类“MaleProfessor” - 不可访问间接虚拟基类“Person”
+  (编译源文件“Management.cpp”)
+  D:\2022\项目\C++-11\Management.h(41,32):
+  “Person”是“Teacher”的 private 基类
+  D:\2022\项目\C++-11\Management.h(69,26):
+  “Teacher”是“Professor”的 private 基类
+  
+D:\2022\项目\C++-11\Management.h(147,7): warning C4594: 决不可实例化类“TeacherAssistant” - 不可访问间接虚拟基类“Student”
+  (编译源文件“Management.cpp”)
+  D:\2022\项目\C++-11\Management.h(125,34):
+  “Student”是“Graduate”的 private 基类
+  
+  正在生成代码...
+D:\2022\项目\C++-11\Management.cpp(487,1): warning C4715: “Management::searchPerson”: 不是所有的控件路径都返回值
+  C++-11.vcxproj -> D:\2022\项目\C++-11\x64\Debug\C++-11.exe
